@@ -15,5 +15,6 @@ public class GitLearn {
         System.out.println("hello hot-fix");
         System.out.println("hello conflict hot-fix");
         System.out.println("hello conflict master");
+        System.out.println("github edit");
     }
 }
